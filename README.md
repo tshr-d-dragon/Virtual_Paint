@@ -11,6 +11,6 @@ It uses Google's mediapipe library to detect the tip of the Index finger. For mo
 2. Create anaconda environment
 3. Activate environment
 4. >pip install -r requirement.txt
-5. >DrawOnScreen.py
+5. >python DrawOnScreen.py
 
 ## Please feel free to connect for any suggestions or doubts!!!
