@@ -6,7 +6,7 @@ An OpenCV project that draws on screen by following the tip of the Index finger 
 
 It uses Google's mediapipe library to detect the tip of the Index finger. For more information, please visit https://google.github.io/mediapipe/solutions/hands.
 
-![Demo1](https://github.com/tshr-d-dragon/Object_Detection/blob/main/YOLOv3/prediction/People_pred_YOLOv3.gif)
+![Demo1](https://github.com/tshr-d-dragon/Virtual_Paint/blob/main/Virtual_Paint.gif)
 
 ## To run the prject, follow below steps
 1. Ensure that you are in the project home directory
