@@ -8,7 +8,7 @@ It uses Google's mediapipe library to detect the tip of the Index finger. For mo
 
 ![Demo1](https://github.com/tshr-d-dragon/Virtual_Paint/blob/main/Virtual_Paint.gif)
 
-## To run the prject, follow below steps
+## To run the project, follow below steps
 1. Ensure that you are in the project home directory
 2. Create anaconda environment
 3. Activate environment
